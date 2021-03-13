@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+J'adore tout ce qui est caca.
 Use the left arrow to go back!
